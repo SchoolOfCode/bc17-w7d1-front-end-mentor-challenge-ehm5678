@@ -1,0 +1,14 @@
+
+
+.main-title {
+    font-size: large;
+}
+
+.sale-price {
+    color: forestgreen;
+}
+
+.cart-button {
+    background-color: forestgreen;
+    color: white;
+}
